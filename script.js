@@ -3,7 +3,7 @@ $(function(){
 $("#pub").hide();
 setTimeout(function () {
    $('#pub').trigger('click');
-}, 2000);
+}, 10000);
 
 });
 
